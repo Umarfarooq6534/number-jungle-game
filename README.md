@@ -10,7 +10,7 @@ This project was built using **HTML, CSS, and JavaScript** and is fully playable
 
 - Add, subtract, or mix math questions
 - Interactive visual counters (fruits, animals)
-- Fun animations and soundless feedback
+- Fun animations feedback
 - Score, streaks, and level progression
 - Works on PC and mobile
 
