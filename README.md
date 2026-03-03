@@ -27,14 +27,8 @@ This project was built using **HTML, CSS, and JavaScript** and is fully playable
 ## 🚀 Play the Game
 
 You can play the live game here:  
-[Play Number Jungle](https://umarfarooq.github.io/number-jungle-game/)
-
-Or scan the QR code to open on your mobile device:
-
-(link-to-your-QR-code-image-here)
-
+[Play Number Jungle]https://umarfarooq6534.github.io/number-jungle-game/
 ---
-
 ## 👨‍💻 About the Developer
 
 This project was made by **Umar Farooq**, a software engineering student at **FAST-NUCES**.  
